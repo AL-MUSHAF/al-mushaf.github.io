@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="المصحف الشريف">
+  <rect width="32" height="32" rx="6" fill="#12352c"/>
+  <path d="M6 26h20v-1.6H6V26Zm2.2-3.2h15.6V15.2c0-5.2-3.2-8.6-7.8-8.6s-7.8 3.4-7.8 8.6v7.6Zm2.3-1.5v-5.8c0-3.5 2-6 5.5-6s5.5 2.5 5.5 6v5.8H10.5Z" fill="#a6843d"/>
+  <ellipse cx="16" cy="15.2" rx="1.7" ry="2.5" fill="#f7f1e4"/>
+</svg>
